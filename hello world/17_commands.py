@@ -1,0 +1,1 @@
+#single line  command  -commands only need to use why and hows -no need of what
