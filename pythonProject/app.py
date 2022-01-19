@@ -13,3 +13,4 @@ for row in range(1, sheet.max_row + 1):
     corrected_price_cell.value = corrected_price
 wb.save('transactions2.xlsx')
 print("haiii")
+print("add")
